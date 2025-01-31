@@ -16,4 +16,5 @@ I developed a comprehensive project in Excel, creating multiple dashboards and t
 - <a href="https://github.com/kishoresr22/Employees-dashboard/blob/main/employee%20dashboard%20(1).xlsx">Dashboard</a>
 
 ## Dashboard
+![E-dash image](https://github.com/user-attachments/assets/2204c48c-1560-45d2-9089-5113cd60930a)
 
