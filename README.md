@@ -10,7 +10,7 @@ https://1drv.ms/x/c/b97e6662acfcf5e7/EciBADOIXZpEg94CVBHuTc0Bh5vWd7MY-sRWdoQndF9
     * Average Age by Gender:
             Male employees have a slightly higher average age than females.
     * Number of Employees by Job Title:
-            The majority are in technical roles, with the highest count for Technical Architects.
+            The majority are in technical roles, with the highest count for Technical Architects.   
     * Total Employees by Country: 
             The majority of employees are from the United States, followed by China and Brazil.
     * Bonus Percentage Distribution:
